@@ -43,6 +43,9 @@
   <feature name="http://api.phonegap.com/1.0/notification" />
   <feature name="http://api.phonegap.com/1.0/geolocation" />
   
+  <!--Plugins-->
+   <gap:plugin name="org.apache.cordova.device" />
+  
   <!-- Icons -->
   <icon src="icon.png" />
   <!-- must be named this -->
