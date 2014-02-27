@@ -14,7 +14,12 @@
     });
   }
 
-  // Startup 
-  $(document).ready(init);
+    // Startup 
+    if (window.cordova) {
+        document.addEventListener("deviceready", init, false);
+    }
+    else {
+        $(document).ready(init);
+    }
 
 })(window.app = window.app || {}, $);
