@@ -61,6 +61,13 @@
     <Content Include="config.xml" />
     <Content Include="css\app.css" />
     <Content Include="css\app.responsive.css" />
+    <Content Include="icon.png" />
+    <Content Include="icons\icon_114.png" />
+    <Content Include="icons\icon_36.png" />
+    <Content Include="icons\icon_48.png" />
+    <Content Include="icons\icon_57.png" />
+    <Content Include="icons\icon_72.png" />
+    <Content Include="icons\icon_96.png" />
     <Content Include="img\gear.png" />
     <Content Include="index.html" />
     <Content Include="js\about.js" />
@@ -74,6 +81,7 @@
     <Content Include="js\vendor\sammy.0.7.4.min.js" />
     <Content Include="recent.txt" />
     <Content Include="robots.txt" />
+    <Content Include="Splash.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
